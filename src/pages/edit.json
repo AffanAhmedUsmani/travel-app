@@ -1,0 +1,439 @@
+{
+    "status": true,
+    "timestamp": 1729885362395,
+    "data": {
+        "quotes": [
+            {
+                "fuel_pol": "full_to_full",
+                "fair_fuel": true,
+                "sipp": "JFAR",
+                "pu_rn_id": 12712,
+                "guid": "b5b14511-740b-4ad9-bd73-a3f7c9be2bc5",
+                "booking_panel_option_guid": "0cc1e119-74d7-4e66-b733-43864fce3f32",
+                "loc": {
+                    "pu": "JFK",
+                    "do": "JFK"
+                },
+                "pickup_type": "shuttle",
+                "adds": {
+                    "free_coll_wvr": true,
+                    "excess_insr": 0,
+                    "theft_protection": true,
+                    "unlim_mlg": true,
+                    "free_cancel": true,
+                    "third_party_cover": true
+                },
+                "pu": "7119",
+                "score": 0,
+                "new_score": 8,
+                "vndr_id": 1,
+                "vndr": "Exclusive",
+                "do": "7119",
+                "bags": 1,
+                "price": 690.799999999,
+                "pay_type": "mix_pay",
+                "prv_id": "caus",
+                "car_name": "BMW X5",
+                "original_car_name": "BMW X5",
+                "group": "ifat5t000001jfk",
+                "dplnk": "/carhire_deeplink/2.0/caus/carhi/car/US,en-US,USD/7119/7119/2024-10-27T03:00:00/2024-10-28T03:48:00/70/cars?channel=website&client_id=skyscanner_website&sipp=JFAR&vendor=Exclusive&pickuproutenodeid=12712&dropoffroutenodeid=12712&pickup_name=New+York+John+F.+Kennedy&ticket_currency_id=USD&ticket_price=690.799999999&request_id=gen-6b1dfe02-a7f9-4469-84cc-1793d0df43c1&booking_panel_option_guid=0cc1e119-74d7-4e66-b733-43864fce3f32&deeplink_data=eyJmaWVsZHMiOnsic2lnbmF0dXJlIjoiNTI4MzA1YzY5OGQyOTU4ZTI1ZTUwNWU3OTA2YTg3ODQifSwidXJsIjoiaHR0cHM6Ly93d3cuY2FycmVudGFsOC5jb20vZW4tdXMvc2VhcmNoP3JhdGVfcmVmZXJlbmNlPTdfZXlMWDBGeW44M2YxM3NmekgxdFBUN1BsNjcwMHhWM180cElfVGVwQmE4S1Z2dHhoa0R2UHdIUWd3VmItel84ZFp1YUdTV2ttaVdtSkpvWW15WWJtcHNtcHFVWW1acGJtNTlKbDEydzRseTdQV2JDb3RQaTB3OU9URGd4QWNOWXk5YlREOC04TVVMYmJPUWJtdU9WZzRtekNtYk9ySXM4eENDMm81dDVocUd0dWFteXBhMlp1WkdLdWEyUmdxT3NIaGdabTU5S2x2Nnh2WEZPUW1KeWRtSjRhbjVlWW03bzdQRDQwT040X3lNVTFLTjdKTWRnMTNpM1V4eWNneURYQTBkUGw4T0hURG84bmdHMjdxV0p1bnB4a2FHbVpwbXRpWm02aGE1Sm9tS3FiWkpCbW9XdG1ZV0pvYW1oc1pKeHFtQVIwMDFKamMwc0RvLVpMX185N0habDVtZ0VLR0JrUG54VzRmOXBob1FTWWV3QXVjVmJJLWRLRS00Zi1URF90TU9rQVZPMmhzMHhCY082QlM5UFBzb25QUHUzUTB3Q1hGdng4MnFIREFtcVNRLWNMaUVraVFuQkZaMFdFSnpPZFkyQnNXd0IwMFZuWnBKdWV5Y1pKUm1aSnlTYTZocGFHUU5jblc2Ym9XaHBibXVzYW1saFltaVdiSmFZQ2FYMERpeVFUazZSa0M5MUVpOVFrWFpPMHBGUmRDeUJUMTlJb3hUelJNTW5TUERVbEJRQSZjdXJyZW5jeT0mYWZmaWxpYXRlPWNyOF9za3lzY2FubmVyJmxhbmd1YWdlPWVuLXVzJnBpY2t1cF9kYXRlPTIwMjQtMTAtMjcmcGlja3VwX3RpbWU9MDM6MDAmZHJvcG9mZl9kYXRlPTIwMjQtMTAtMjgmZHJvcG9mZl90aW1lPTAzOjQ4JnJlc2lkZW5jZV9jb3VudHJ5PXVzJnBpY2t1cF9sb2NhdGlvbj03MTE5JmRyb3BvZmZfbG9jYXRpb249NzExOSZkcml2ZXJzX2FnZT03MCZ1bmlxdWVfaWQ9MTQwNzQzNzIyXzQzNjA5XzEyMzEifQ%3D%3D",
+                "do_rn_id": 12712,
+                "pickup_method": "normal",
+                "fuel_type": "other",
+                "office_id": "7119",
+                "vndr_rating": {
+                    "overall_rating": 0,
+                    "car_condition": 0,
+                    "cars_kept_clean": 0,
+                    "easy_pickup": 0,
+                    "service": 0,
+                    "rating_type": "unset_rating_type",
+                    "rating_desc": "okay"
+                },
+                "seat": 5
+            },
+            {
+                "fair_fuel": false,
+                "sipp": "IFAR",
+                "pu_rn_id": 11442,
+                "guid": "0ac1b8de-e232-4420-8922-fbb939bb6a96",
+                "booking_panel_option_guid": "ae05a368-141f-4e66-8364-ccbb34d7bf69",
+                "loc": {
+                    "pu": "EWR",
+                    "do": "EWR"
+                },
+                "pickup_type": "desk in terminal",
+                "adds": {
+                    "unlim_mlg": true,
+                    "gps": false
+                },
+                "pu": "5190",
+                "score": 0,
+                "new_score": 3.5,
+                "vndr_id": 673,
+                "vndr": "Sixt",
+                "do": "5190",
+                "bags": 3,
+                "price": 117.92,
+                "pay_type": "pre_pay",
+                "prv_id": "hlau",
+                "car_name": "Toyota RAV4",
+                "original_car_name": "Toyota Rav4",
+                "group": "ifat5f000673ewr",
+                "dplnk": "/carhire_deeplink/2.0/hlau/carhi/car/US,en-US,USD/5190/5190/2024-10-27T03:00:00/2024-10-28T03:48:00/70/cars?channel=website&client_id=skyscanner_website&sipp=IFAR&vendor=Sixt&pickuproutenodeid=11442&dropoffroutenodeid=11442&pickup_name=New+York+Newark&ticket_currency_id=USD&ticket_price=117.92&request_id=gen-6b1dfe02-a7f9-4469-84cc-1793d0df43c1&booking_panel_option_guid=ae05a368-141f-4e66-8364-ccbb34d7bf69&deeplink_data=eyJmaWVsZHMiOnsic2lnbmF0dXJlIjoiNWI0OWZlMmE5ZmE0MmQ4OTA3YTY5YmY5MTlhYTcwYjIifSwidXJsIjoiaHR0cHM6Ly93d3cuaG9saWRheWF1dG9zLmNvbS9ib29rP2FnZT03MCZjbGllbnRJZD02MDgxOTUmY3VycmVuY3k9VVNEJmxhbmc9ZW4mcGlja3VwRGF0ZT0yNyZwaWNrdXBIb3VyPTMmcGlja3VwSUFUQUNvZGU9RVdSJnBpY2t1cE1pbnV0ZT0wJnBpY2t1cE1vbnRoPTkmcGlja3VwWWVhcj0yMDI0JnJlZklEPTc5NzI1MDM0MSZyZXNpZGVuY3lJZD1VUyZyZXR1cm5EYXRlPTI4JnJldHVybkhvdXI9MyZyZXR1cm5JQVRBQ29kZT1FV1ImcmV0dXJuTWludXRlPTQ4JnJldHVybk1vbnRoPTkmcmV0dXJuWWVhcj0yMDI0JnNlYXJjaFVSTD1ob2xpZGF5YXV0b3MuY29tJTJGZW4tdXMjL3ZlaGljbGVzIn0%3D",
+                "do_rn_id": 11442,
+                "pickup_method": "normal",
+                "fuel_type": "other",
+                "office_id": "5190",
+                "vndr_rating": {
+                    "overall_rating": 4.6,
+                    "car_condition": 4.7,
+                    "cars_kept_clean": 4.7,
+                    "easy_pickup": 4.1,
+                    "service": 4.9,
+                    "rating_type": "location",
+                    "rating_desc": "good"
+                },
+                "seat": 5
+            }
+           
+        ],
+        "quotes_count": 684,
+        "groups": {
+            "ifat5f000673ewr": {
+                "sippCode": "IFAR",
+                "car_name": "Toyota RAV4",
+                "ac": true,
+                "quotes_count": 4,
+                "img": "54268_cc2400_032_8X8.png",
+                "max_score": 6.25,
+                "max_seats": 5,
+                "min_price": 117.92,
+                "mean_price": 122.6425,
+                "doors": "suv",
+                "max_bags": 3,
+                "trans": "automatic",
+                "cls": "intermediate",
+                "pickup_method": "normal",
+                "fuel_type": "other",
+                "search_results_option_guid": "3a801a3b-b528-4eb5-802d-65ec77c4dad6"
+            }
+        },
+        "groups_count": 358,
+        "providers": {
+            "enjo": {
+                "rating": 4.7,
+                "optimised_for_mobile": true,
+                "reviews": 2296,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Enjoy",
+                "errored": false,
+                "in_progress": false
+            },
+            "hlcr": {
+                "rating": 3.8,
+                "optimised_for_mobile": false,
+                "reviews": 9687,
+                "facilitated_booking_enabled": false,
+                "provider_name": "HolidayCars.com",
+                "errored": false,
+                "in_progress": true
+            },
+            "hlau": {
+                "rating": 4.1,
+                "optimised_for_mobile": true,
+                "reviews": 35037,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Holiday Autos",
+                "errored": false,
+                "in_progress": false
+            },
+            "aueu": {
+                "rating": 4.5,
+                "optimised_for_mobile": true,
+                "reviews": 6020,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Auto Europe",
+                "errored": false,
+                "in_progress": false
+            },
+            "expa": {
+                "rating": 4.5,
+                "optimised_for_mobile": true,
+                "reviews": 233601,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Expedia",
+                "errored": false,
+                "in_progress": true
+            },
+            "orbc": {
+                "rating": 4.7,
+                "optimised_for_mobile": true,
+                "reviews": 1449,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Orbit Car Hire",
+                "errored": false,
+                "in_progress": false
+            },
+            "vipd": {
+                "rating": 4.7,
+                "optimised_for_mobile": true,
+                "reviews": 34246,
+                "facilitated_booking_enabled": false,
+                "provider_name": "VIPCars",
+                "errored": false,
+                "in_progress": false
+            },
+            "vipc": {
+                "rating": 4.7,
+                "optimised_for_mobile": true,
+                "reviews": 34246,
+                "facilitated_booking_enabled": false,
+                "provider_name": "VIPCars",
+                "errored": false,
+                "in_progress": false
+            },
+            "edca": {
+                "rating": 2.1875,
+                "optimised_for_mobile": true,
+                "reviews": 619,
+                "facilitated_booking_enabled": false,
+                "provider_name": "eDreams",
+                "errored": false,
+                "in_progress": false
+            },
+            "caus": {
+                "rating": 4.3,
+                "optimised_for_mobile": false,
+                "reviews": 11482,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Car Rental 8 Exclusive",
+                "errored": false,
+                "in_progress": false
+            },
+            "gotr": {
+                "rating": 3,
+                "optimised_for_mobile": false,
+                "reviews": 271,
+                "facilitated_booking_enabled": false,
+                "provider_name": "GotRentalCars",
+                "errored": false,
+                "in_progress": true
+            },
+            "tpch": {
+                "rating": 4,
+                "optimised_for_mobile": true,
+                "reviews": 10014,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Trip.com",
+                "errored": false,
+                "in_progress": true
+            },
+            "hrus": {
+                "rating": 3.9214015152,
+                "optimised_for_mobile": true,
+                "reviews": 2000,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Hertz",
+                "errored": false,
+                "in_progress": false
+            },
+            "thri": {
+                "rating": 3.857421875,
+                "optimised_for_mobile": true,
+                "reviews": 5000,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Thrifty",
+                "errored": false,
+                "in_progress": false
+            },
+            "ecob": {
+                "rating": 4.1,
+                "optimised_for_mobile": true,
+                "reviews": 6605,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Economy Bookings",
+                "errored": false,
+                "in_progress": false
+            },
+            "rtcl": {
+                "rating": 3,
+                "optimised_for_mobile": true,
+                "reviews": 126,
+                "facilitated_booking_enabled": false,
+                "provider_name": "RentCarla",
+                "errored": false,
+                "in_progress": true
+            },
+            "strf": {
+                "rating": 4.6,
+                "optimised_for_mobile": true,
+                "reviews": 6751,
+                "facilitated_booking_enabled": false,
+                "provider_name": "StressFreeCarRental",
+                "errored": false,
+                "in_progress": false
+            },
+            "reca": {
+                "rating": 3.9,
+                "optimised_for_mobile": true,
+                "reviews": 8795,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Rentingcarz",
+                "errored": false,
+                "in_progress": true
+            },
+            "sixt": {
+                "rating": 4.0043331626,
+                "optimised_for_mobile": true,
+                "reviews": 10000,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Sixt",
+                "errored": false,
+                "in_progress": false
+            },
+            "dscv": {
+                "rating": 4.6,
+                "optimised_for_mobile": true,
+                "reviews": 170960,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Discover Cars",
+                "errored": false,
+                "in_progress": false
+            },
+            "kyte": {
+                "rating": null,
+                "optimised_for_mobile": false,
+                "reviews": null,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Drive Kyte",
+                "errored": false,
+                "in_progress": false
+            },
+            "zrus": {
+                "rating": 3.7721994536,
+                "optimised_for_mobile": true,
+                "reviews": 10000,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Dollar",
+                "errored": false,
+                "in_progress": false
+            },
+            "kloo": {
+                "rating": 4.4,
+                "optimised_for_mobile": false,
+                "reviews": 4261,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Klook.com",
+                "errored": false,
+                "in_progress": true
+            },
+            "rcbr": {
+                "rating": 4.6,
+                "optimised_for_mobile": true,
+                "reviews": 72267,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Rentcars.com",
+                "errored": false,
+                "in_progress": true
+            },
+            "budg": {
+                "rating": 4.2113095238,
+                "optimised_for_mobile": true,
+                "reviews": 10000,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Budget",
+                "errored": false,
+                "in_progress": false
+            },
+            "wscr": {
+                "rating": 4.6,
+                "optimised_for_mobile": true,
+                "reviews": 10507,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Wisecars",
+                "errored": false,
+                "in_progress": false
+            },
+            "trjv": {
+                "rating": 3.9,
+                "optimised_for_mobile": true,
+                "reviews": 113953,
+                "facilitated_booking_enabled": false,
+                "provider_name": "rentalcars.com",
+                "errored": false,
+                "in_progress": true
+            },
+            "acrc": {
+                "rating": 4.6,
+                "optimised_for_mobile": true,
+                "reviews": 9083,
+                "facilitated_booking_enabled": false,
+                "provider_name": "Airport Rentals",
+                "errored": false,
+                "in_progress": true
+            }
+        },
+        "query": {
+            "lang": "en",
+            "do_dt": "2024-10-28T03:48",
+            "ccy": "USD",
+            "age": 70,
+            "pu_dt": "2024-10-27T03:00",
+            "ucy": "US",
+            "chnl": "web"
+        },
+        "locations": {
+            "pu": {
+                "dr5ryzd": {
+                    "is_airport": false,
+                    "lat_lon": "40.77917;-73.88",
+                    "address": "Laguardia Airport-25 Bowery Bay Boulevard"
+                },
+                "EWR": {
+                    "is_airport": true,
+                    "lat_lon": "40.695833;-74.171667",
+                    "full_name": "New York Newark"
+                },
+                "dr5rudw": {
+                    "is_airport": false,
+                    "lat_lon": "40.75127;-73.97357",
+                    "address": "225 East 43rd St (Btwn 2nd & 3rd Av)"
+                },
+                "dr5x2d1": {
+                    "is_airport": false,
+                    "lat_lon": "40.660556;-73.804722",
+                    "address": "305 Federal Cir, Jamaica"
+                },
+                "LGA": {
+                    "is_airport": true,
+                    "lat_lon": "40.779444;-73.875833",
+                    "full_name": "New York LaGuardia"
+                },
+                "JFK": {
+                    "is_airport": true,
+                    "lat_lon": "40.6412215;-73.7781176",
+                    "full_name": "New York John F. Kennedy"
+                }
+            },
+            "do": {
+                "EWR": {
+                    "is_airport": true,
+                    "lat_lon": "40.695833;-74.171667",
+                    "full_name": "New York Newark"
+                },
+                "LGA": {
+                    "is_airport": true,
+                    "lat_lon": "40.779444;-73.875833",
+                    "full_name": "New York LaGuardia"
+                },
+                "JFK": {
+                    "is_airport": true,
+                    "lat_lon": "40.6412215;-73.7781176",
+                    "full_name": "New York John F. Kennedy"
+                }
+            }
+        },
+        "search_id": "gen-6b1dfe02-a7f9-4469-84cc-1793d0df43c1"
+    }
+}
